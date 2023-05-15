@@ -29,13 +29,14 @@ a:hover {
 }
 
 .bubble {
+    text-align: left;
     position: relative;
     width: 45%;
     height: 150%;
     color: black;
     background-color: rgba(128, 128, 128, 0.5);
     border-radius: 10px;
-    left: 516px;
+    left: center;
     top: -30px;
 }
 
