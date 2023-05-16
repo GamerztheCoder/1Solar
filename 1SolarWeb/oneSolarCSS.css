@@ -29,7 +29,10 @@ a:hover {
     padding: 30px;
 }
 
+.sectionTitle:load
+
 .minorInfoBox {
+    margin: 0 auto;
     width: 45%;
     height: 150%;
     color: black;
