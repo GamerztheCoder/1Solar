@@ -3,7 +3,6 @@ html {
 }
 
 body {
-    size: 1928px;
     text-align: center;
     margin: 0;
 }
@@ -30,7 +29,7 @@ a:hover {
     padding: 30px;
 }
 
-.bubble {
+.minorInfoBox {
     /* text-align: left; */
     position: relative;
     width: 45%;
@@ -39,10 +38,6 @@ a:hover {
     background-color: rgba(128, 128, 128, 0.5);
     border-radius: 10px;
     top: -30px;
-}
-
-table {
-    border-collapse: inherit;
 }
 
 th {
